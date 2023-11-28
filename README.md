@@ -1,4 +1,8 @@
 # Notes
+This is a simple NotesApp called My Notes using firebase, you can add, edit, and delete your own note.
+You can change your password if you forget it, and you can also delete your account
+*you should open your email for verification your account.
+
 set up your firebase,
 and dont forget to add your google-services.json
 
