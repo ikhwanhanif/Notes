@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    //link
+    <string name="privacy_policy_link" translatable="false">
+        https://www.termsfeed.com/live/0f90d4ff-0a12-4602-99df-9f952713e618
+    </string>
+    <string name="play_store_link" translatable="false">
+        https://play.google.com/store/apps/dev?id=7862095023254906088
+    </string>
+    <string name="instagram_link" translatable="false">
+        https://www.instagram.com/datefruit.07
+    </string>
+
+</resources>

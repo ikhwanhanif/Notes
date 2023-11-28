@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/animated_bg_6"
+        android:duration="4000"/>
+    <item
+        android:drawable="@drawable/animated_bg_2"
+        android:duration="4000"/>
+    <item
+        android:drawable="@drawable/animated_bg_3"
+        android:duration="4000"/>
+    <item
+        android:drawable="@drawable/animated_bg_4"
+        android:duration="4000"/>
+    <item
+        android:drawable="@drawable/animated_bg_5"
+        android:duration="4000"/>
+    <item
+        android:drawable="@drawable/animated_bg_1"
+        android:duration="4000" />
+
+
+</animation-list>
