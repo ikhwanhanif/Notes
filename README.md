@@ -39,7 +39,9 @@ You can change your password if you forget it, and you can also delete your acco
 
 ## Download
 https://play.google.com/store/apps/details?id=ikhwan.hanif.notes&pcampaignid=web_share
-demo on youtube : https://www.youtube.com/watch?v=jP6OhA1y_jM
+
+## Demo
+https://www.youtube.com/watch?v=jP6OhA1y_jM
 
 ## Contribution
 Contributions and suggestions for improvement are always welcome. If you would like to contribute to this project, please create a pull request.
