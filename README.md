@@ -1,4 +1,5 @@
 # Notes
+![Icon](app/src/main/res/drawable/icon_notes.png)
 
 ## Description
 This is a simple NotesApp called My Notes using firebase, you can add, edit, and delete your own note.
